@@ -3,6 +3,8 @@
 ### Description
 This Python application leverages Cisco DNA Center APIs to audit wireless SSID Intent with device configuration. This script compares wireless profiles provisioned in Cisco DNA Center against network/device configuration and produces a tabular report. This enables the network administrator to detect mismatches between design intent and actual configuration on the device. Based on the report outcome, the administrator can remediate the issue with appropriate site provisioning in Cisco DNA Center.
 
+![images](./dnac-wireless.png)
+
 DNAC APIs used:
 
 | Method | API |
